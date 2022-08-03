@@ -1,0 +1,7 @@
+echo "# Avi0003" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Avi0003/Avi0003.git
+git push -u origin main
